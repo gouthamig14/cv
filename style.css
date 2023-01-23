@@ -1,0 +1,16 @@
+body{
+  background-color:#FFD4D4
+}
+/*this is a single line comment*/
+h1{
+  color: #2D033B;
+}
+p{
+  font-size:20px;
+}
+pre{
+  font-size:30px;
+}
+td{
+  text-align:center;
+}
